@@ -1,0 +1,41 @@
+name: Update IPTV List
+
+# 触发条件
+on:
+  workflow_dispatch: # 允许你在网页上点击按钮手动运行
+  schedule:
+    - cron: '0 2 * * *' # 每天 UTC 时间 2:00 (北京时间 10:00) 自动运行一次。如果你不需要定时，可以删掉这两行。
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest # 使用最新的 Ubuntu 虚拟环境
+
+    steps:
+      # 1. 获取你的仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. 设置 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # 你可以根据需要修改 Python 版本
+
+      # 3. 安装 requirements.txt 里的依赖包
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. 运行你的 Python 脚本
+      - name: Run update script
+        run: python update_iptv.py
+
+      # 5. 提交并推送更改（如果脚本生成了新文件，这一步会把它保存到仓库）
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          # 如果有文件变动就提交，没有变动就不提交，防止报错
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update IPTV list" && git push)
