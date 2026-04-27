@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 group-title="更新时间",最后更新: 2026-04-26 04:55:58
+#EXTINF:-1 group-title="更新时间",最后更新: 2026-04-27 05:19:06
 http://127.0.0.1/dummy.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="2025-03-03" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-03-03
 https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
@@ -99,6 +99,46 @@ http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Viutv" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Viutv.png" group-title="港·澳·台",Viutv
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="yuanzl77.github.io" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",yuanzl77.github.io
+https://liuliuliu.tv/api/channels/233/stream
+#EXTINF:-1 tvg-name="「B站」CS_2",「B站」CS_2
+https://cdn-3.ttvb.eu.org/bilibili/21622811
+#EXTINF:-1 tvg-name="「斗鱼」DOTA2",「斗鱼」DOTA2
+https://cdn-3.ttvb.eu.org/douyu/3811559
+#EXTINF:-1 tvg-name="「斗鱼」FIFA",「斗鱼」FIFA
+https://cdn-3.ttvb.eu.org/douyu/7692166
+#EXTINF:-1 tvg-name="「斗鱼」JJ斗地主",「斗鱼」JJ斗地主
+https://cdn-3.ttvb.eu.org/douyu/488743
+#EXTINF:-1 tvg-name="「斗鱼」QQ飞车•手游",「斗鱼」QQ飞车•手游
+https://cdn-3.ttvb.eu.org/douyu/5040227
+#EXTINF:-1 tvg-name="「斗鱼」云顶之弈",「斗鱼」云顶之弈
+https://cdn-3.ttvb.eu.org/douyu/522423
+#EXTINF:-1 tvg-name="「斗鱼」使命召唤•手游",「斗鱼」使命召唤•手游
+https://cdn-3.ttvb.eu.org/douyu/9223245
+#EXTINF:-1 tvg-name="「斗鱼」和平精英",「斗鱼」和平精英
+https://cdn-3.ttvb.eu.org/douyu/999
+#EXTINF:-1 tvg-name="「斗鱼」无畏契约",「斗鱼」无畏契约
+https://cdn-3.ttvb.eu.org/douyu/4585645
+#EXTINF:-1 tvg-name="「斗鱼」火影忍者",「斗鱼」火影忍者
+https://cdn-3.ttvb.eu.org/douyu/1997723
+#EXTINF:-1 tvg-name="「斗鱼」王者荣耀_𝟙",「斗鱼」王者荣耀_𝟙
+https://cdn-3.ttvb.eu.org/douyu/1863767
+#EXTINF:-1 tvg-name="「斗鱼」王者荣耀_𝟚",「斗鱼」王者荣耀_𝟚
+https://cdn-3.ttvb.eu.org/douyu/1984839
+#EXTINF:-1 tvg-name="「斗鱼」第五人格",「斗鱼」第五人格
+https://cdn-3.ttvb.eu.org/douyu/3226194
+#EXTINF:-1 tvg-name="「斗鱼」绝地求生",「斗鱼」绝地求生
+https://cdn-3.ttvb.eu.org/douyu/100
+#EXTINF:-1 tvg-name="「斗鱼」英雄联盟_𝟙",「斗鱼」英雄联盟_𝟙
+https://cdn-3.ttvb.eu.org/douyu/288016
+#EXTINF:-1 tvg-name="「斗鱼」英雄联盟_𝟚",「斗鱼」英雄联盟_𝟚
+https://cdn-3.ttvb.eu.org/douyu/424559
+#EXTINF:-1 tvg-name="「斗鱼」跑跑卡丁车",「斗鱼」跑跑卡丁车
+https://cdn-3.ttvb.eu.org/douyu/7722576
+#EXTINF:-1 tvg-name="「斗鱼」跑跑卡丁车•手游",「斗鱼」跑跑卡丁车•手游
+https://cdn-3.ttvb.eu.org/douyu/6672862
+#EXTINF:-1 tvg-name="「虎牙」英雄联盟_𝟚",「虎牙」英雄联盟_𝟚
+https://cdn-3.ttvb.eu.org/huya/660001
 #EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="3" tvg-name="三立台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三立台湾.png" group-title="港·澳·台",三立台湾
@@ -235,6 +275,8 @@ http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$LR•IPV4『线路1』
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="1" tvg-name="请阅读" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",请阅读
+https://liuliuliu.tv/api/channels/1997/stream
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
