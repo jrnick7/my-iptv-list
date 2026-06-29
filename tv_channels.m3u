@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 group-title="更新时间",最后更新: 2026-06-28 06:11:33
+#EXTINF:-1 group-title="更新时间",最后更新: 2026-06-29 06:39:51
 http://127.0.0.1/dummy.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="2025-03-03" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-03-03
 https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
@@ -137,8 +137,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://120.76.248.139/live/bfgd/4200000122.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="26" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$LR•IPV4『线路26』
-#EXTINF:-1 tvg-id="4" tvg-name="凤凰卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
-http://cdn.132.us.kg/live/fhzw/stream.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="33" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$LR•IPV4『线路33』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
