@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 group-title="更新时间",最后更新: 2026-09-18 06:54:42
+#EXTINF:-1 group-title="更新时间",最后更新: 2026-09-19 06:53:31
 http://127.0.0.1/dummy.m3u8
 #EXTINF:-1 tvg-name="CCTV-10科教",CCTV-10科教
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
@@ -49,6 +49,50 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-name="「B站」CS_2",「B站」CS_2
+https://cdn.ttvb.eu.org/bilibili/21622811
+#EXTINF:-1 tvg-name="「B站」使命召唤•手游",「B站」使命召唤•手游
+https://cdn.ttvb.eu.org/bilibili/22741849
+#EXTINF:-1 tvg-name="「B站」第五人格",「B站」第五人格
+https://cdn.ttvb.eu.org/bilibili/5555
+#EXTINF:-1 tvg-name="「B站」英雄联盟•手游",「B站」英雄联盟•手游
+https://cdn.ttvb.eu.org/bilibili/23138275
+#EXTINF:-1 tvg-name="「斗鱼」DOTA2",「斗鱼」DOTA2
+https://cdn.ttvb.eu.org/douyu/3811559
+#EXTINF:-1 tvg-name="「斗鱼」JJ斗地主",「斗鱼」JJ斗地主
+https://cdn.ttvb.eu.org/douyu/488743
+#EXTINF:-1 tvg-name="「斗鱼」QQ飞车•手游",「斗鱼」QQ飞车•手游
+https://cdn.ttvb.eu.org/douyu/5040227
+#EXTINF:-1 tvg-name="「斗鱼」云顶之弈",「斗鱼」云顶之弈
+https://cdn.ttvb.eu.org/douyu/522423
+#EXTINF:-1 tvg-name="「斗鱼」使命召唤•手游",「斗鱼」使命召唤•手游
+https://cdn.ttvb.eu.org/douyu/9223245
+#EXTINF:-1 tvg-name="「斗鱼」和平精英",「斗鱼」和平精英
+https://cdn.ttvb.eu.org/douyu/999
+#EXTINF:-1 tvg-name="「斗鱼」无畏契约",「斗鱼」无畏契约
+https://cdn.ttvb.eu.org/douyu/4585645
+#EXTINF:-1 tvg-name="「斗鱼」火影忍者",「斗鱼」火影忍者
+https://cdn.ttvb.eu.org/douyu/1997723
+#EXTINF:-1 tvg-name="「斗鱼」王者荣耀_𝟙",「斗鱼」王者荣耀_𝟙
+https://cdn.ttvb.eu.org/douyu/1863767
+#EXTINF:-1 tvg-name="「斗鱼」王者荣耀_𝟚",「斗鱼」王者荣耀_𝟚
+https://cdn.ttvb.eu.org/douyu/1984839
+#EXTINF:-1 tvg-name="「斗鱼」穿越火线_𝟙",「斗鱼」穿越火线_𝟙
+https://cdn.ttvb.eu.org/douyu/605964
+#EXTINF:-1 tvg-name="「斗鱼」穿越火线_𝟚",「斗鱼」穿越火线_𝟚
+https://cdn.ttvb.eu.org/douyu/5388537
+#EXTINF:-1 tvg-name="「斗鱼」第五人格",「斗鱼」第五人格
+https://cdn.ttvb.eu.org/douyu/3226194
+#EXTINF:-1 tvg-name="「斗鱼」绝地求生",「斗鱼」绝地求生
+https://cdn.ttvb.eu.org/douyu/100
+#EXTINF:-1 tvg-name="「斗鱼」英雄联盟_𝟙",「斗鱼」英雄联盟_𝟙
+https://cdn.ttvb.eu.org/douyu/288016
+#EXTINF:-1 tvg-name="「斗鱼」英雄联盟_𝟚",「斗鱼」英雄联盟_𝟚
+https://cdn.ttvb.eu.org/douyu/424559
+#EXTINF:-1 tvg-name="「斗鱼」跑跑卡丁车",「斗鱼」跑跑卡丁车
+https://cdn.ttvb.eu.org/douyu/7722576
+#EXTINF:-1 tvg-name="「虎牙」永劫无间",「虎牙」永劫无间
+https://cdn.ttvb.eu.org/huya/660115
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
