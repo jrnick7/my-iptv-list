@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 group-title="更新时间",最后更新: 2026-09-26 06:54:57
+#EXTINF:-1 group-title="更新时间",最后更新: 2026-09-27 07:24:31
 http://127.0.0.1/dummy.m3u8
 #EXTINF:-1 tvg-name="CCTV-10科教",CCTV-10科教
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
@@ -63,12 +63,12 @@ https://cdn.ttvb.eu.org/bilibili/55
 https://cdn.ttvb.eu.org/bilibili/21654762
 #EXTINF:-1 tvg-name="「B站」第五人格",「B站」第五人格
 https://cdn.ttvb.eu.org/bilibili/5555
+#EXTINF:-1 tvg-name="「B站」绝地求生",「B站」绝地求生
+https://cdn.ttvb.eu.org/bilibili/98
 #EXTINF:-1 tvg-name="「B站」英雄联盟•手游",「B站」英雄联盟•手游
 https://cdn.ttvb.eu.org/bilibili/23138275
 #EXTINF:-1 tvg-name="「斗鱼」DOTA2",「斗鱼」DOTA2
 https://cdn.ttvb.eu.org/douyu/3811559
-#EXTINF:-1 tvg-name="「斗鱼」FIFA",「斗鱼」FIFA
-https://cdn.ttvb.eu.org/douyu/7692166
 #EXTINF:-1 tvg-name="「斗鱼」JJ斗地主",「斗鱼」JJ斗地主
 https://cdn.ttvb.eu.org/douyu/488743
 #EXTINF:-1 tvg-name="「斗鱼」QQ飞车•手游",「斗鱼」QQ飞车•手游
@@ -107,10 +107,10 @@ https://cdn.ttvb.eu.org/douyu/7722576
 https://cdn.ttvb.eu.org/douyu/6672862
 #EXTINF:-1 tvg-name="「斗鱼」金铲铲之战",「斗鱼」金铲铲之战
 https://cdn.ttvb.eu.org/douyu/9715241
-#EXTINF:-1 tvg-name="「虎牙」王者荣耀_𝟚",「虎牙」王者荣耀_𝟚
-https://cdn.ttvb.eu.org/huya/660164
-#EXTINF:-1 tvg-name="「虎牙」金铲铲之战",「虎牙」金铲铲之战
-https://cdn.ttvb.eu.org/huya/660579
+#EXTINF:-1 tvg-name="「虎牙」第五人格",「虎牙」第五人格
+https://cdn.ttvb.eu.org/huya/idvesports
+#EXTINF:-1 tvg-name="「虎牙」绝地求生_𝟚",「虎牙」绝地求生_𝟚
+https://cdn.ttvb.eu.org/huya/660005
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
