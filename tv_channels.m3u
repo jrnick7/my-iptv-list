@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 group-title="更新时间",最后更新: 2026-10-22 06:54:07
+#EXTINF:-1 group-title="更新时间",最后更新: 2026-10-23 06:47:39
 http://127.0.0.1/dummy.m3u8
 #EXTINF:-1 tvg-name="CCTV-10科教",CCTV-10科教
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
@@ -51,8 +51,16 @@ https://0472.org/hls/cgtnd.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="「B站」CS_2",「B站」CS_2
 https://cdn.ttvb.eu.org/bilibili/21622811
+#EXTINF:-1 tvg-name="「B站」QQ飞车•手游",「B站」QQ飞车•手游
+https://cdn.ttvb.eu.org/bilibili/21743919
 #EXTINF:-1 tvg-name="「B站」使命召唤•手游",「B站」使命召唤•手游
 https://cdn.ttvb.eu.org/bilibili/22741849
+#EXTINF:-1 tvg-name="「B站」王者荣耀_𝟙",「B站」王者荣耀_𝟙
+https://cdn.ttvb.eu.org/bilibili/55
+#EXTINF:-1 tvg-name="「B站」王者荣耀_𝟚",「B站」王者荣耀_𝟚
+https://cdn.ttvb.eu.org/bilibili/21654762
+#EXTINF:-1 tvg-name="「B站」第五人格",「B站」第五人格
+https://cdn.ttvb.eu.org/bilibili/5555
 #EXTINF:-1 tvg-name="「B站」绝地求生",「B站」绝地求生
 https://cdn.ttvb.eu.org/bilibili/98
 #EXTINF:-1 tvg-name="「B站」英雄联盟•手游",「B站」英雄联盟•手游
@@ -75,14 +83,12 @@ https://cdn.ttvb.eu.org/douyu/10853239
 https://cdn.ttvb.eu.org/douyu/999
 #EXTINF:-1 tvg-name="「斗鱼」我的世界",「斗鱼」我的世界
 https://cdn.ttvb.eu.org/douyu/738878
-#EXTINF:-1 tvg-name="「斗鱼」火影忍者",「斗鱼」火影忍者
-https://cdn.ttvb.eu.org/douyu/1997723
+#EXTINF:-1 tvg-name="「斗鱼」无畏契约",「斗鱼」无畏契约
+https://cdn.ttvb.eu.org/douyu/4585645
 #EXTINF:-1 tvg-name="「斗鱼」王者荣耀_𝟙",「斗鱼」王者荣耀_𝟙
 https://cdn.ttvb.eu.org/douyu/1863767
 #EXTINF:-1 tvg-name="「斗鱼」王者荣耀_𝟚",「斗鱼」王者荣耀_𝟚
 https://cdn.ttvb.eu.org/douyu/1984839
-#EXTINF:-1 tvg-name="「斗鱼」穿越火线_𝟙",「斗鱼」穿越火线_𝟙
-https://cdn.ttvb.eu.org/douyu/605964
 #EXTINF:-1 tvg-name="「斗鱼」穿越火线_𝟚",「斗鱼」穿越火线_𝟚
 https://cdn.ttvb.eu.org/douyu/5388537
 #EXTINF:-1 tvg-name="「斗鱼」第五人格",「斗鱼」第五人格
@@ -95,8 +101,6 @@ https://cdn.ttvb.eu.org/douyu/288016
 https://cdn.ttvb.eu.org/douyu/424559
 #EXTINF:-1 tvg-name="「斗鱼」跑跑卡丁车",「斗鱼」跑跑卡丁车
 https://cdn.ttvb.eu.org/douyu/7722576
-#EXTINF:-1 tvg-name="「斗鱼」跑跑卡丁车•手游",「斗鱼」跑跑卡丁车•手游
-https://cdn.ttvb.eu.org/douyu/6672862
 #EXTINF:-1 tvg-name="「斗鱼」金铲铲之战",「斗鱼」金铲铲之战
 https://cdn.ttvb.eu.org/douyu/9715241
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
@@ -141,6 +145,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="延边卫视",延边卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="挨饿德•1「其他」",挨饿德•1「其他」
+https://cdn.ttvb.eu.org/huya/20985858
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视
@@ -173,6 +179,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-name="漫威「解说」",漫威「解说」
+https://cdn.ttvb.eu.org/huya/17089779
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
